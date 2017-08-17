@@ -1,6 +1,6 @@
 {
-  "name": "react-sanfona",
-  "version": "0.2.3",
+  "name": "react-sanfona-selig",
+  "version": "0.2.4",
   "description": "React accessible accordion component",
   "main": "./dist-modules/index.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "aria",
     "widget"
   ],
-  "author": "Davi Ferreira <hi@daviferreira.com>",
+  "author": "Selig Lau <selig1029@hotmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/daviferreira/react-sanfona/issues"
