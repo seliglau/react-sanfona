@@ -23,7 +23,7 @@ export default class AccordionItemTitle extends Component {
     }
 
     return (
-      <h3
+      <a
         aria-controls={`react-sanfona-item-body-${this.props.uuid}`}
         className={className('react-sanfona-item-title', this.props.className)}
         id={`react-safona-item-title-${this.props.uuid}`}
@@ -31,7 +31,7 @@ export default class AccordionItemTitle extends Component {
         style={style}
       >
         {title}
-      </h3>
+      </a>
     );
   }
 }
